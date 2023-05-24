@@ -1,5 +1,7 @@
 # Student-Database-Management-System
 
+This is a Student database management system created using python and html. Find the attached screenshots below.
+
 ![image](https://github.com/Wolve1001/Student-Database-Management-System/assets/82719580/7f9ff716-087e-4f45-9c9f-c849818ae277)
 
 
